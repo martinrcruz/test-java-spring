@@ -1,0 +1,38 @@
+La plataforma esta montada sobre Java 11 con Spring Boot 2.5.4 bajo Gradle
+
+
+
+Enumere los ejercicios del 1 al 6, el acceso a la resolucion de estos esta en las siguientes rutas:
+
+
+1.- Generar un listado de 20 números aleatorios entre 0 y 100.
+    |
+    +----> http://localhost:8080/test-java/solution/part1
+
+
+2.- De un listado de números obtener el número mayor
+    |
+    +----> http://localhost:8080/test-java/solution/part2
+
+
+3- De un listado de números obtener el número menor
+    |
+    +----> http://localhost:8080/test-java/solution/part3
+
+
+4- De un listado de números transformarlo a un listado de números al cuadrado
+    |
+    +----> http://localhost:8080/test-java/solution/part4
+
+
+5- Sumar el contenido de un listado de números
+    |
+    +----> http://localhost:8080/test-java/solution/part5
+
+
+6.- Ordenar descendente un listado de números
+    |
+    +----> http://localhost:8080/test-java/solution/part6
+
+
+
